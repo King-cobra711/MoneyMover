@@ -37,6 +37,9 @@ Your React application should be running on http://localhost:3000 in your defaul
 
 Your Node server should be running on http://localhost:3001 in your default browser.
 
+## Testing API
+
+- To run test just navigate to the server folder in the terminal and then type `npm run test`.
 
 ## Resources
 - Great resource ([GET](https://zellwk.com/blog/async-await/) and [POST](https://zellwk.com/blog/jest-and-mongoose/)) for endpoint testing using [Jest](https://www.npmjs.com/package/jest) & [Supertest](https://www.npmjs.com/package/supertest)
