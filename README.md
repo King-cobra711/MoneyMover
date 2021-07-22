@@ -42,4 +42,4 @@ Your Node server should be running on http://localhost:3001 in your default brow
 - To run test just navigate to the server folder in the terminal and then type `npm run test`.
 
 ## Resources
-- Great resource ([GET](https://zellwk.com/blog/async-await/) and [POST](https://zellwk.com/blog/jest-and-mongoose/)) for endpoint testing using [Jest](https://www.npmjs.com/package/jest) & [Supertest](https://www.npmjs.com/package/supertest)
+- Great resource for [GET](https://zellwk.com/blog/async-await/) and [POST](https://zellwk.com/blog/jest-and-mongoose/) endpoint testing using [Jest](https://www.npmjs.com/package/jest) & [Supertest](https://www.npmjs.com/package/supertest)
