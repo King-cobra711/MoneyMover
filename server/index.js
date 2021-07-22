@@ -40,11 +40,8 @@ app.post("/moneyToB", body("money", "must be $1 or higher").isFloat({ min:1}), b
         )
     }else{
         const Asent = req.body.money;
-        console.log(Asent);
         balanceB = +balanceB + +Asent;
         balanceA = balanceA -= Asent;
-        console.log(balanceA);
-        console.log(balanceB);
         res.sendStatus(200);
     }
 })
@@ -58,11 +55,8 @@ app.post("/moneyToA", body("money", "must be $1 or higher").isFloat({ min:1}), b
         )
     }else{
         const Bsent = req.body.money;
-        console.log(Bsent);
         balanceA = +balanceA + +Bsent;
         balanceB = balanceB -= Bsent;
-        console.log(balanceA);
-        console.log(balanceB);
         res.sendStatus(200);
     }
 })
