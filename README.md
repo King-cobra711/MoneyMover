@@ -39,4 +39,4 @@ Your Node server should be running on http://localhost:3001 in your default brow
 
 
 ## Resources
-- Great resource ([GET](https://zellwk.com/blog/async-await/)[POST](https://zellwk.com/blog/jest-and-mongoose/)) for endpoint testing using [Jest](https://www.npmjs.com/package/jest) & [Supertest](https://www.npmjs.com/package/supertest)
+- Great resource ([GET](https://zellwk.com/blog/async-await/) and [POST](https://zellwk.com/blog/jest-and-mongoose/)) for endpoint testing using [Jest](https://www.npmjs.com/package/jest) & [Supertest](https://www.npmjs.com/package/supertest)
