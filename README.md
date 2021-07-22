@@ -2,7 +2,7 @@
 
 ## Description
 
-Money Mover is a simple application that allows you to tranfer money from one account to another and stores the transaction history for both accounts. All calculations are done on the back-end and there are no sessions/cookies/localstorage being used so progress is not stored. Both front-end and back-end are have validation and API testing has been implemented. 
+Money Mover is a simple application that allows you to tranfer money from one account to another and stores the transaction history for both accounts. All calculations are done on the back-end and there are no sessions/cookies/localstorage/database being used so progress is not stored. Both front-end and back-end are have validation and API testing has been implemented. 
 
 ## Technologies
 
@@ -36,3 +36,7 @@ Your React application should be running on http://localhost:3000 in your defaul
 2. `npm run devStart`
 
 Your Node server should be running on http://localhost:3001 in your default browser.
+
+
+## Resources
+- Great resource ([GET](https://zellwk.com/blog/async-await/)[POST](https://zellwk.com/blog/jest-and-mongoose/)) for endpoint testing using [Jest](https://www.npmjs.com/package/jest) & [Supertest](https://www.npmjs.com/package/supertest)
