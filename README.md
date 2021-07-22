@@ -23,7 +23,7 @@ Money Mover is a simple application that allows you to tranfer money from one ac
 
 - In the terminal navigate to the money_mover folder and then type `npm i` to ensure all dependencies are installed and then `npm start`. Example:
 
-1. `cd /Users/KingCobra711/Desktop/Beer MoneyMover/client`
+1. `cd /Users/KingCobra711/Desktop/MoneyMover/client`
 1. `npm i` press enter
 2. `npm start` press enter
 
@@ -31,7 +31,7 @@ Your React application should be running on http://localhost:3000 in your defaul
 
 - then navigate to the server folder, ensure all dependencies are installed (`npm i`) and run `npm run devStart`. Example:
 
-1. `cd /Users/KingCobra711/Desktop/Beer MoneyMover/server`
+1. `cd /Users/KingCobra711/Desktop/MoneyMover/server`
 1. `npm i`
 2. `npm run devStart`
 
