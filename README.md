@@ -15,7 +15,7 @@ Money Mover is a simple application that allows you to tranfer money from one ac
 ## Launch
 
 - Open the terminal and use `cd` to navigate to your desktop or your preffered location to store this project.
-- Once there use the command `mkdir Money_Mover` to create a new folder entitled Beer_Buddies.
+- Once there use the command `mkdir Money_Mover` to create a new folder entitled Money_Mover.
 - Now use the command `git clone https://github.com/King-cobra711/MoneyMover.git` to copy the project files from this github repository
 
 
